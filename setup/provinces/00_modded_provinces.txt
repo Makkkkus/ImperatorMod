@@ -1,0 +1,35 @@
+﻿#Eunixia
+6042 = {
+	barbarian_power=0
+	civilization_value=3
+	culture="rugian"
+	province_rank="city"
+	religion="germanic_religion"
+	terrain="farmland"
+	trade_goods="fish"
+	tribesmen=
+	{
+		amount = 2
+	}
+	freemen=
+	{
+		amount = 1
+	}
+	citizen=
+	{
+		amount = 1
+	}
+}
+8063 = { # Dalane
+	barbarian_power=0
+	civilization_value=3
+	culture="rugian"
+	province_rank="settlement"
+	religion="germanic_religion"
+	terrain="forest"
+	trade_goods="fish"
+	tribesmen=
+	{
+		amount = 2
+	}
+}

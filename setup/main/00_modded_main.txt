@@ -1,0 +1,22 @@
+provinces = {
+
+}
+
+road_network = {
+}
+
+country = {
+	countries = {
+		VDL = {
+			government = tribal_chiefdom
+			primary_culture = rugian
+			religion = germanic_religion
+			
+			capital = 6042
+			
+			own_control_core = {
+				6041 6042 6043 8063
+			}
+		}
+	}
+}
