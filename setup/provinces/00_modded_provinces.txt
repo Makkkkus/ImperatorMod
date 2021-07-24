@@ -20,7 +20,7 @@
 		amount = 1
 	}
 }
-8063 = { # Dalane
+8063 = { # Ryfylke
 	barbarian_power=1
 	civilization_value=3
 	culture="rugian"
